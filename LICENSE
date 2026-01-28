@@ -1,0 +1,95 @@
+# Educational Research License with Security Disclaimer
+
+## Terms of Use
+
+This project is provided for **educational and research purposes only** as academic coursework at the University of Luxembourg.
+
+### Permitted Uses
+
+- Reading, studying, and analyzing the code
+- Understanding Man-in-the-Middle attack mechanisms for defensive purposes
+- Academic research and educational projects
+- Integration into academic coursework with proper attribution
+- Publication of findings with crediting this work
+
+### Restrictions - Strictly Prohibited
+
+You may **NOT** use this project to:
+
+1. **Conduct attacks against real systems** - Unauthorized access to computer networks is illegal under laws including the Computer Fraud and Abuse Act (CFAA) and similar legislation worldwide.
+
+2. **Deploy malicious implementations** - Code and techniques shown here are for analysis only, not deployment in production networks.
+
+3. **Target third-party networks or systems** - Any application of these techniques without explicit written permission from network owners is prohibited.
+
+4. **Remove or obscure disclaimers** - Educational and research disclaimers must remain visible in all derivative works.
+
+5. **Use for commercial purposes** - Commercial use requires explicit written permission from University of Luxembourg and all original authors.
+
+### Legal Notice
+
+**UNAUTHORIZED ACCESS TO COMPUTER SYSTEMS IS ILLEGAL.**
+
+This material demonstrates attack techniques for educational purposes to understand cybersecurity threats and develop better defenses. Unauthorized use against real systems violates:
+
+- Computer Fraud and Abuse Act (CFAA) - United States
+- Computer Misuse Act 1990 - United Kingdom
+- Criminal Code Article 202 - Luxembourg
+- Equivalent laws in other jurisdictions
+
+### Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHORS, UNIVERSITY OF LUXEMBOURG, OR INSTITUTIONS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+### Attribution Requirements
+
+Use of this project requires:
+
+1. **Credit to University of Luxembourg** - Institution must be credited
+2. **Course attribution** - "Security of Software Defined Networking" course must be cited
+3. **Author attribution** - All original team members must be credited
+4. **Disclaimer inclusion** - Security disclaimer must be included in all derivative works
+5. **Date reference** - Academic year (2025-2026) must be noted
+
+### Academic Integrity
+
+This project was developed as academic coursework. Any derivative academic works must:
+
+- Follow your institution's academic integrity policies
+- Include proper citations and attribution
+- Comply with research ethics guidelines
+- Maintain educational and non-malicious intent
+
+### Contact & Inquiries
+
+For questions about licensed use or commercial inquiries, contact the original authors through their GitHub profiles or the University of Luxembourg.
+
+### University Attribution
+
+**University of Luxembourg**
+- Official Website: https://www.uni.lu/
+- SNT Department: https://www.uni.lu/snt-en/
+- CYBERUS Master Program: https://master-cyberus.eu/
+
+**Supervising Professors:**
+- Despoina Giarimpampa (https://www.uni.lu/snt-en/people/despoina-giarimpampa/)
+- Moustapha Awwalou Diouf (https://www.uni.lu/snt-en/people/moustapha-awwalou-diouf/)
+
+---
+
+## Acknowledgment
+
+By using this software, you acknowledge that:
+
+1. You have read and understood this license
+2. You understand the legal implications of unauthorized system access
+3. You will use this material only for lawful purposes
+4. You are responsible for your actions and the consequences thereof
+
+**This is educational material. Do not deploy maliciously. Do not use against systems you do not own or have explicit permission to test.**
+
+---
+
+Last Updated: January 2026
